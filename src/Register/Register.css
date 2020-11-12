@@ -1,0 +1,11 @@
+.RegistrationForm {
+    height: 400px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+   
+}
+.RegistrationForm__notes{
+    font-size: 10px;
+}

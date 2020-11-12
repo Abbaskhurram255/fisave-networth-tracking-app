@@ -1,0 +1,58 @@
+#mainTitle, #mainTitle>a:visited, #mainTitle>a:active, #mainTitle>a:hover{
+    margin-top: 30px;
+    font-size: 35px;
+    color: white !important
+}
+
+
+
+  #topLeftNav{
+      display: flex;
+      height: 20px;
+      justify-content: space-between;
+      max-width: 150px;
+      align-content: flex-end;
+      margin-right: 10px;
+      margin-left: auto;
+      font-size: 22px;
+  }
+
+  .Nav{
+    position: sticky;
+    top:0;
+    margin: 0;
+    background-color: #152950;
+   color: white;
+   height: 140px;
+  
+  }
+  .burgerIcon{
+      color: white;
+      font-size: 28px;
+      display: flex;
+      margin-left: 10px
+  }
+
+#nav-leader{
+    background-color:  #152950;
+    text-align: left;
+    padding: 5px;
+    max-width: 200px;
+    top: 47px;
+    position: absolute; 
+    color: white;
+    max-height: 125px;
+    margin: 0;
+    z-index: 2;
+}
+.menuLink,.menuLink:visited, .menuLink:active, .menuLink:hover{
+color: white 
+}
+
+.Menu{
+    width: 50px;
+}
+.header{
+    top: 10px;
+    right: 5px
+}

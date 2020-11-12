@@ -1,0 +1,65 @@
+
+.HelpIcon{
+    color: red;
+    font-size: 12px
+}
+.description{
+    font-size: 12px;
+
+}
+.Calculator{
+    margin: auto;
+    color: #152950;
+    background-size: 52%;
+}
+
+.background{
+    background-color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.preview-form{
+    max-width: 240px;
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+@media only screen and (min-width:800px) {
+    .Calculator{
+        height: 500px;
+
+    }
+    .background{
+
+        width: 40% ;
+    }
+}
+
+@media only screen and (min-width:500px)and (max-width:799px) {
+    .Calculator{
+        height: 485px;
+
+    }
+    .background{
+
+        width: 70%;
+    }
+}
+
+@media only screen (min-width: 319px) and (max-width:499px) {
+    .Calculator{
+        height: 500px;
+
+    }
+    .background{
+
+        width: 40% ;
+    }
+}

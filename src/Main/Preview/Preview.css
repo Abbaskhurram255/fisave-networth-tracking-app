@@ -1,0 +1,50 @@
+.Preview{
+    background:#eeee;
+    height: 200px;
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    color: #152950;
+    
+}
+
+
+.Preview>h1{
+    font-size: 40px;
+}
+.Preview-text{
+    display: block
+    
+}
+g{
+    color: white
+}
+.Pie{
+    margin-top: -100px;
+}
+
+.mainLink>a:active, .mainLink>a:visited, .mainLink>a:hover,.mainLink{
+color: #738683;
+}
+.pieChart{
+    margin: 100px
+}
+.Preview-total{
+    display: flex;
+    flex-direction: row;
+}
+@media only screen and (max-width: 1100px) {
+    .Pie{
+
+        display: none
+    }
+
+}
+
+@media only screen and (max-width:300px) {
+    .secondDescription{
+
+        display: none
+    }
+
+}

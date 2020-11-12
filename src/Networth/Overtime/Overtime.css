@@ -1,0 +1,22 @@
+.Overtime-list{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    overflow: scroll;
+    border:  #152950 solid 3px;
+    border-radius: 15px;
+    max-height: 160px;
+}
+.Overtime{
+    background-color: #eeee;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2%
+
+}
+
+.Overtime-title{
+    color: #152950 
+}

@@ -1,0 +1,196 @@
+.addMenu{
+    background-color: gray;
+    max-width: 200px;
+    height: 200px;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Key{
+    height: 10px;
+    max-width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.WalletTitle{
+    margin-left: 5%;
+    margin-top: -8%
+}
+.KeyMenu{
+    font-size: 18px;
+}
+.Key>li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin: 0;
+}
+.dot {
+    fill: #738683;
+    stroke: #fff;
+}
+.loader{
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #738683;
+    width: 80px;
+    height:80px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: spin 2s linear infinite;
+}
+.small-loader{
+    border: 8px solid #f3f3f3;
+    border-radius: 180%;
+    border-top: 8px solid #738683;
+    width: 10px;
+    height:10px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: spin 2s linear infinite;
+}
+.loadingpage{
+    color:  #152950;
+    font-size: 20px;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+.Asset{
+    background-color: #738683;
+    width: 17px;
+    height: 17px;
+    margin:0
+ }
+ .Debt{
+    background-color: #152950;
+    width: 17px;
+    height: 17px;
+    margin:0
+ }
+
+ .test{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0 !important
+  
+ }
+ .wallet>h2{
+     margin-bottom: 0;
+ }
+.profile{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 3px;
+    border-radius: 15px;
+    font-size: 20px;
+    width: 80%;
+}
+
+.List{
+    list-style-type: none;
+}
+.input{
+    border: solid black 2px;  
+    height: 22px;
+}
+.Networth{
+    height: 100vh;
+
+}
+.report{
+    height: 200px;
+    max-width: 200px;
+    font-size: 16px;
+
+}
+
+.lineChartSvg{
+    border: black solid 5px
+}
+#description{
+    height: 20px;
+    z-index: 1;
+    margin-top:-20px;
+    position: absolute;
+    color: red;
+    padding: 2px;
+    font-size: 10px;
+}
+.help{
+    font-size: 11px;
+    margin-left: 2px;
+    margin-bottom:6px;
+}
+.linechart_path {
+    stroke-width: 3; 
+    fill: none;      
+  }
+  .linechart_axis {
+    stroke: #bdc3c7; 
+  }
+
+.axis{
+   
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 1.5px;
+        /* shape-rendering: crispEdges; */
+    
+}
+
+
+.path {
+    fill:none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.WalletEntries{
+    text-align: left;
+    display:flex;
+    
+}
+.WalletTitle{
+    padding-top: 5%;
+    text-align: center;
+}
+.WalletList{
+    display:flex;
+    flex-direction: column;
+    margin-left: 5px;
+}
+
+
+
+@media only screen and (min-width: 900px) {
+    .chart{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;   
+ }
+    .test{
+        padding-right:1%;
+        padding-left: 1%;
+        flex-direction: row;
+    }
+    .WalletEntries{
+    display: flex;
+  
+    margin: 10%
+    }
+    .profile{
+        width: 70%;
+    }
+
+}
