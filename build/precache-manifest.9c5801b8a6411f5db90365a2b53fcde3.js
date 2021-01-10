@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "761634880f05ef9af76bbb1b5496b43d",
+    "revision": "b3eb92a15b996d774b110cac8bc6eced",
     "url": "/fisave-networth-tracking-app/index.html"
   },
   {
-    "revision": "7f852cc162d31201f783",
-    "url": "/fisave-networth-tracking-app/static/css/main.3763c8ff.chunk.css"
+    "revision": "c543f81830b5ef3566bc",
+    "url": "/fisave-networth-tracking-app/static/css/main.0dfeaa43.chunk.css"
   },
   {
     "revision": "68b30bcb5d4f6e758836",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f852cc162d31201f783",
-    "url": "/fisave-networth-tracking-app/static/js/main.655d91a6.chunk.js"
+    "revision": "c543f81830b5ef3566bc",
+    "url": "/fisave-networth-tracking-app/static/js/main.89071a6c.chunk.js"
   },
   {
     "revision": "6d52df530f0899e33b72",
