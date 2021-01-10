@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fisave-networth-tracking-app/static/css/main.3763c8ff.chunk.css",
-    "main.js": "/fisave-networth-tracking-app/static/js/main.655d91a6.chunk.js",
-    "main.js.map": "/fisave-networth-tracking-app/static/js/main.655d91a6.chunk.js.map",
+    "main.css": "/fisave-networth-tracking-app/static/css/main.0dfeaa43.chunk.css",
+    "main.js": "/fisave-networth-tracking-app/static/js/main.89071a6c.chunk.js",
+    "main.js.map": "/fisave-networth-tracking-app/static/js/main.89071a6c.chunk.js.map",
     "runtime-main.js": "/fisave-networth-tracking-app/static/js/runtime-main.11852791.js",
     "runtime-main.js.map": "/fisave-networth-tracking-app/static/js/runtime-main.11852791.js.map",
     "static/js/2.55d22024.chunk.js": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js",
     "static/js/2.55d22024.chunk.js.map": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js.map",
     "index.html": "/fisave-networth-tracking-app/index.html",
-    "precache-manifest.316a6a6810d09d0a8aa929a1662cad54.js": "/fisave-networth-tracking-app/precache-manifest.316a6a6810d09d0a8aa929a1662cad54.js",
+    "precache-manifest.9c5801b8a6411f5db90365a2b53fcde3.js": "/fisave-networth-tracking-app/precache-manifest.9c5801b8a6411f5db90365a2b53fcde3.js",
     "service-worker.js": "/fisave-networth-tracking-app/service-worker.js",
-    "static/css/main.3763c8ff.chunk.css.map": "/fisave-networth-tracking-app/static/css/main.3763c8ff.chunk.css.map",
+    "static/css/main.0dfeaa43.chunk.css.map": "/fisave-networth-tracking-app/static/css/main.0dfeaa43.chunk.css.map",
     "static/js/2.55d22024.chunk.js.LICENSE.txt": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.11852791.js",
     "static/js/2.55d22024.chunk.js",
-    "static/css/main.3763c8ff.chunk.css",
-    "static/js/main.655d91a6.chunk.js"
+    "static/css/main.0dfeaa43.chunk.css",
+    "static/js/main.89071a6c.chunk.js"
   ]
 }

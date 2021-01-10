@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fisave-networth-tracking-app/precache-manifest.316a6a6810d09d0a8aa929a1662cad54.js"
+  "/fisave-networth-tracking-app/precache-manifest.9c5801b8a6411f5db90365a2b53fcde3.js"
 );
 
 self.addEventListener('message', (event) => {
