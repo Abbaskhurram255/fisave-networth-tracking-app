@@ -92,7 +92,7 @@ export default class Calculator extends Component {
         <div className="Calculator">
           <div className="background">
             <form className="CalculatorForm">
-              <p className="preview">Try out the net-worth-calculator:</p>
+              <p className="preview">Try out the net-worth calculator:</p>
               {wallets ? (
                 <div className='preview-form'>
                   {wallets.map((wallet) => (
@@ -144,7 +144,7 @@ export default class Calculator extends Component {
             </form>
             {this.state.showDescription ? (
               <i className="description">
-                Networth is the total of your saved assests, minus any debts you
+                Net worth is the total of your saved assests, minus any debts you
                 are still paying off. Create an account to learn more!
               </i>
             ) : null}
