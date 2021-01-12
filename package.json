@@ -1,7 +1,9 @@
 {
   "name": "networth-app",
   "homepage": "https://abbaskhurram255.github.io/fisave-networth-tracking-app/",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Alex Puth aka Khurram <abbaskhurram255@gmail.com> (https://abbaskhurram255.github.io)",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
@@ -19,7 +21,8 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
     "react-router-hash-link": "^1.2.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "gh-pages": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
