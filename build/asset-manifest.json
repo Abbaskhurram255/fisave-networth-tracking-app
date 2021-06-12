@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fisave-networth-tracking-app/static/css/main.0dfeaa43.chunk.css",
-    "main.js": "/fisave-networth-tracking-app/static/js/main.9f074cfe.chunk.js",
-    "main.js.map": "/fisave-networth-tracking-app/static/js/main.9f074cfe.chunk.js.map",
-    "runtime-main.js": "/fisave-networth-tracking-app/static/js/runtime-main.11852791.js",
-    "runtime-main.js.map": "/fisave-networth-tracking-app/static/js/runtime-main.11852791.js.map",
-    "static/js/2.55d22024.chunk.js": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js",
-    "static/js/2.55d22024.chunk.js.map": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js.map",
-    "index.html": "/fisave-networth-tracking-app/index.html",
-    "precache-manifest.cf79586228c60aaf60717882f3bbd148.js": "/fisave-networth-tracking-app/precache-manifest.cf79586228c60aaf60717882f3bbd148.js",
-    "service-worker.js": "/fisave-networth-tracking-app/service-worker.js",
-    "static/css/main.0dfeaa43.chunk.css.map": "/fisave-networth-tracking-app/static/css/main.0dfeaa43.chunk.css.map",
-    "static/js/2.55d22024.chunk.js.LICENSE.txt": "/fisave-networth-tracking-app/static/js/2.55d22024.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.0dfeaa43.chunk.css",
+    "main.js": "/static/js/main.a06eee86.chunk.js",
+    "main.js.map": "/static/js/main.a06eee86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76f89fd5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76f89fd5.js.map",
+    "static/js/2.46310dc6.chunk.js": "/static/js/2.46310dc6.chunk.js",
+    "static/js/2.46310dc6.chunk.js.map": "/static/js/2.46310dc6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1d1a86228da0ebeb69de3dfcbefe551.js": "/precache-manifest.e1d1a86228da0ebeb69de3dfcbefe551.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0dfeaa43.chunk.css.map": "/static/css/main.0dfeaa43.chunk.css.map",
+    "static/js/2.46310dc6.chunk.js.LICENSE.txt": "/static/js/2.46310dc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11852791.js",
-    "static/js/2.55d22024.chunk.js",
+    "static/js/runtime-main.76f89fd5.js",
+    "static/js/2.46310dc6.chunk.js",
     "static/css/main.0dfeaa43.chunk.css",
-    "static/js/main.9f074cfe.chunk.js"
+    "static/js/main.a06eee86.chunk.js"
   ]
 }
